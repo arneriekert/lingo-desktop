@@ -19,18 +19,16 @@ Next word/reset word
 ##CLASSES
 
 ###Word 
-{
+
 	private String with the word
 	setters and getters
 	method to get the word from somewhere (txt file, internet etc.)
 
-}
+
 ###TheGame (with main) 
-{
+
 	set up the gui
 	set a word object
-
-}
 
 
 
