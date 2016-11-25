@@ -1,9 +1,9 @@
-TODO
+#TODO
 
 Create git repo
 
 
-GUI
+##GUI
 
 The word:
 First letter shown at start
@@ -16,15 +16,17 @@ Next word/reset word
 2dgraphics paint repaint on user guess
 
 
-CLASSES
+##CLASSES
 
-Word {
+###Word 
+{
 	private String with the word
 	setters and getters
 	method to get the word from somewhere (txt file, internet etc.)
 
 }
-TheGame (with main) {
+###TheGame (with main) 
+{
 	set up the gui
 	set a word object
 
@@ -32,12 +34,12 @@ TheGame (with main) {
 
 
 
-IMPORTS
+##IMPORTS
 
 ActionListener for buttons and stuff (java.awt.(event.)*)
 
 
 
-MORE STUFF WE NEED
+##MORE STUFF WE NEED
 
 Maybe save high score
